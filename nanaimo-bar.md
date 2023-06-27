@@ -1,4 +1,4 @@
-# Kyle's Nanaimo Bar
+# Kyle's Nanaimo Bar recipe
 
 ## Ingredients
 
